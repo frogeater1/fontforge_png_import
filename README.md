@@ -1,2 +1,2 @@
 # fontforge_png_import
-批量导入png图片
+批量导入png图片,使用时修改路径并复制到fontforge里面执行，不需要本地环境
